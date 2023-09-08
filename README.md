@@ -1,0 +1,2 @@
+# IDea
+my own manager
